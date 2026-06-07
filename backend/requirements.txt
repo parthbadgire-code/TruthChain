@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+httpx
+requests
+pillow
+opencv-python-headless
+numpy
+web3
